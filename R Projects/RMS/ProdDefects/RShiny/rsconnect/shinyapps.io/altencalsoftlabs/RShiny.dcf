@@ -1,0 +1,13 @@
+name: RShiny
+title: RShiny
+username:
+account: altencalsoftlabs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228533
+bundleId: 1067230
+url: https://altencalsoftlabs.shinyapps.io/RShiny/
+when: 1510245510.0104
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

@@ -1,0 +1,13 @@
+name: smart_car_parking
+title: Smart Car Parking
+username:
+account: altencalsoftlabs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 233201
+bundleId: 1065864
+url: https://altencalsoftlabs.shinyapps.io/smart_car_parking/
+when: 1510183615.75982
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
